@@ -1,0 +1,30 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore testing files
+tests.py
+
+# Ignore any environment or configuration files with secrets
+.env
+*.env
+
+# Ignore local configuration files
+*.log
+*.sqlite3
+
+# Ignore Dockerfile and Docker Compose (not needed in the image)
+Dockerfile
+docker-compose.yml
+
+# Ignore git version control system files
+.git/
+.gitignore
+
+# Ignore README.md (optional, usually not needed in the image)
+README.md
