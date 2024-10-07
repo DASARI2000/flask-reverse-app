@@ -30,7 +30,7 @@ flask-reverse-app/
 ### 1. Clone the Repository
     Clone the repository to your local machine using Git:
     ```bash
-    git clone https://github.com/your_username/flask-reverse-app.git
+    git clone https://github.com/DASARI2000/flask-reverse-app.git
     cd flask-reverse-app
 
 ## 2. Build and Run the Docker Containers
